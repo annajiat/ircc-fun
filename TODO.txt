@@ -1,0 +1,3 @@
+1) add a file named your_name.txt with some contents e.g. hello A
+2) modify shared.txt, change some existing text and add a new line e.g. hello B
+3) create a new directory with your name add add your_name2.txt with some contents e.g. hello C
